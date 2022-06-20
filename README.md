@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a post-graduate MSc trainee building my research skills in developmental psychology
+- 🔭 I’m a post-graduate MSc trainee building my research skills in clinical developmental psychology
 - 🌱 Exploring data analysis methods and techniques
 - ⚡ I like big paintings
 ---
